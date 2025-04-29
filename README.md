@@ -1,16 +1,16 @@
-## Hi there 👋
+#自己紹介
+現在大学で統計物理について学びながら、独学でWeb開発を勉強しています。（B4、院進学予定）
+大学の研究ではシミュレーションで主にPythonを使用しています。
+FlaskやHTML/CSSを使った簡単なWebアプリ開発を経験し、最近はJavaScriptやAPI連携にも挑戦しています。
+これからまずはWeb開発の実務経験を積み、基本的なエンジニアスキルを身につけ、将来的にはAIや機械学習方面にも興味があります。
 
-<!--
-**ryu622/ryu622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#使用経験のある技術
+- Python（Flask）
+- HTML / CSS
+- JavaScript（学習中）
+- Git/GitHub
+- Render
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#最近取り組んでいること
+- フロントエンド開発の基礎理解（JavaScript）
+- APIを使ったアプリ開発
