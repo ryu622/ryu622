@@ -5,6 +5,7 @@ FlaskやHTML/CSSを使った簡単なWebアプリ開発を経験し、最近はJ
 これからまずはWeb開発の実務経験を積み、基本的なエンジニアスキルを身につけ、将来的にはAIや機械学習方面にも興味があります。
 以下のFukuLoopとaaa_siteはRenderにてデプロイしました。
 FukuLoop : https://fukuloop.onrender.com
+FukuLoop2.0 : https://fukuloop2-0.onrender.com
 aaa_site : https://flask-aaa-site.onrender.com
 
 #使用経験のある技術
