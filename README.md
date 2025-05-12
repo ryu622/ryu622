@@ -4,6 +4,7 @@
 FlaskやHTML/CSSを使った簡単なWebアプリ開発を経験し、最近はJavaScriptやAPI連携にも挑戦しています。
 これからまずはWeb開発の実務経験を積み、基本的なエンジニアスキルを身につけ、将来的にはAIや機械学習方面にも興味があります。
 以下のFukuLoop2.0とaaa_siteはRenderにてデプロイしました。
+FukuLoop : https://fukuloop.onrender.com
 FukuLoop2.0 : https://fukuloop2-0.onrender.com
 aaa_site : https://flask-aaa-site.onrender.com
 
@@ -19,6 +20,8 @@ aaa_site : https://flask-aaa-site.onrender.com
 - APIを使ったアプリ開発
 
 #おすすめプロジェクト
+- FukuLoop2.0
+  以下のFukuLoopの改良版。
 - FukuLoop
   塾講師のアルバイトで生徒の復習管理・モチベーション維持に課題を感じていたため、復習機能のあるto doリスト（７日後に再表示する機能を実装）を作成し、タスク完了回数を記録（DBに保存）し、過去７日間の完了回数をグラフで表示する機能を実装した。ログイン機能（Flask-Loginを使用）、課題作成機能（Flask-WTFを使用）、課題管理機能、再表示機能（DBはFlask-SQLAlchemyを使用)、グラフ表示機能（Pythonのmatplotlibを使用、seabornでデザインをしました）、バリデーション機能（Flask-WTFを使用）、マイグレーション機能(Flask-Migrateを使用）を実装し、デプロイまで行った。
 - aaa_site
