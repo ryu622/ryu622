@@ -3,7 +3,9 @@
 大学の研究ではシミュレーションで主にPythonを使用しています。
 FlaskやHTML/CSSを使った簡単なWebアプリ開発を経験し、最近はJavaScriptやAPI連携にも挑戦しています。
 これからまずはWeb開発の実務経験を積み、基本的なエンジニアスキルを身につけ、将来的にはAIや機械学習方面にも興味があります。
-以下のFukuLoop（https://fukuloop.onrender.com）とaaa_site（https://flask-aaa-site.onrender.com）はRenderにてデプロイしました。
+以下のFukuLoopとaaa_siteはRenderにてデプロイしました。
+FukuLoop : https://fukuloop.onrender.com
+aaa_site : https://flask-aaa-site.onrender.com
 
 #使用経験のある技術
 - Python（Flask）
