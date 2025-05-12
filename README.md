@@ -21,7 +21,7 @@ aaa_site : https://flask-aaa-site.onrender.com
 
 #おすすめプロジェクト
 - FukuLoop2.0
-  以下のFukuLoopの改良版。
+  以下のFukuLoopの改良版。フロントエンドにJavaScriptを組み込み、グラフを動的に更新する機能を実装した。（グラフ描画にはChart.jsを使用）具体的にはバックエンドのflaskでグラフに必要なデータを送るエンドポイントを作成し、フロントエンドのJavaScriptでAPIを叩き（fetchし）、Chart.jsで描画するという仕組み。グラフ表示機能をJavaScript（グラフ描画はChart.js)に変更。
 - FukuLoop
   塾講師のアルバイトで生徒の復習管理・モチベーション維持に課題を感じていたため、復習機能のあるto doリスト（７日後に再表示する機能を実装）を作成し、タスク完了回数を記録（DBに保存）し、過去７日間の完了回数をグラフで表示する機能を実装した。ログイン機能（Flask-Loginを使用）、課題作成機能（Flask-WTFを使用）、課題管理機能、再表示機能（DBはFlask-SQLAlchemyを使用)、グラフ表示機能（Pythonのmatplotlibを使用、seabornでデザインをしました）、バリデーション機能（Flask-WTFを使用）、マイグレーション機能(Flask-Migrateを使用）を実装し、デプロイまで行った。
 - aaa_site
