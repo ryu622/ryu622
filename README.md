@@ -21,7 +21,7 @@ aaa_site : https://flask-aaa-site.onrender.com
 - FastAPI
 
 #最近取り組んでいること
-- フロントエンド開発の基礎理解（JavaScript）
+- フロントエンド開発の基礎理解（Next.js,TypeScript）
 - APIを使ったアプリ開発
 
 #おすすめプロジェクト
