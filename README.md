@@ -11,9 +11,14 @@ aaa_site : https://flask-aaa-site.onrender.com
 #使用経験のある技術
 - Python（Flask）
 - HTML / CSS
-- JavaScript（学習中）
+- JavaScript
 - Git/GitHub
 - Render
+- React
+- TypeScript
+- Next.js
+- tRPC
+- FastAPI
 
 #最近取り組んでいること
 - フロントエンド開発の基礎理解（JavaScript）
