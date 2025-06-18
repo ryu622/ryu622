@@ -1,12 +1,13 @@
 #自己紹介
 現在大学で統計物理について学びながら、独学でWeb開発を勉強しています。（B4、院進学予定）
 大学の研究ではシミュレーションで主にPythonを使用しています。
-FlaskやHTML/CSSを使った簡単なWebアプリ開発を経験し、最近はJavaScriptやAPI連携にも挑戦しています。
+FlaskやHTML/CSSを使った簡単なWebアプリ開発を経験し、JavaScriptなどのフロントエンドやAPI連携にも挑戦しています。
 これからまずはWeb開発の実務経験を積み、基本的なエンジニアスキルを身につけ、将来的にはAIや機械学習方面にも興味があります。
 以下のFukuLoop2.0とaaa_siteはRenderにてデプロイしました。
 FukuLoop : https://fukuloop.onrender.com
 FukuLoop2.0 : https://fukuloop2-0.onrender.com
 aaa_site : https://flask-aaa-site.onrender.com
+現在はWeb系の企業で長期インターンをしています。また、Pythonでの機械学習も勉強中です。
 
 #使用経験のある技術
 - Python（Flask）
@@ -19,10 +20,12 @@ aaa_site : https://flask-aaa-site.onrender.com
 - Next.js
 - tRPC
 - FastAPI
+- Java
+- Oracle
 
 #最近取り組んでいること
-- フロントエンド開発の基礎理解（Next.js,TypeScript）
-- APIを使ったアプリ開発
+- インターンにてJavaやOracleによる開発
+- Pythonでの機械学習まわりの学習
 
 #おすすめプロジェクト
 - FukuLoop2.0
@@ -33,4 +36,8 @@ aaa_site : https://flask-aaa-site.onrender.com
 　自分が受験生時代にこんなサイト欲しかったなという情報を載せたWebサイトを作成した。それをより良いものにするためには訪問者の意見を聞くことが必要だと思い、お問い合わせフォームから自分のメールアドレスに内容を送信する機能を実装した。こちらもデプロイまで行った。
 - flask-news-js
   フロントエンドとバックエンドを分けた開発をするための練習としてバックエンドでFlaskでapiを作成し、フロントエンドでJavaScriptでfetchして表示するシンプルなニュース検索アプリを作成した。
+-my-text-edit
+  TypeScriptを使ったフルスタック開発を行った（バックエンドはtRPC、フレームワークはNext.js）。私が作成したアプリで技術スタック的には最もモダンな構成となっている。簡易的なテキストエディタアプリでテキストのCRUDに加え、zipファイルの一括インポート機能も実装した。
+-my-github-search
+　フレームワークはNext.js、フロントエンドはTypeScript、バックエンドはFastAPIを用いて、GitHubのリポジトリを検索するフルスタックアプリを開発した。検索機能だけでなく、ローディングスピナーやデザインなどのUIにもこだわった。
 
