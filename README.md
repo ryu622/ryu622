@@ -1,33 +1,36 @@
 #自己紹介
-現在大学で統計物理について学びながら、独学でWeb開発を勉強しています。（B4、院進学予定）
-大学の研究ではシミュレーションで主にPythonを使用しています。
-FlaskやHTML/CSSを使った簡単なWebアプリ開発を経験し、JavaScriptなどのフロントエンドやAPI連携にも挑戦しています。
-これからまずはWeb開発の実務経験を積み、基本的なエンジニアスキルを身につけ、将来的にはAIや機械学習方面にも興味があります。
-以下のFukuLoop2.0とaaa_siteはRenderにてデプロイしました。
+現在大学４年（院進学予定）で研究室にて統計物理学・社会物理学・ネットワーク科学について学びながら、Web系企業で長期インターンをさせてもらっています。
+インターンは初めてから現在半年ほど経過しており、業務ではバックエンドを担当しています。（使用言語はJava、JavaScript、SQLでフレームワークはSpringBootを使っています。）
+大学では、スポーツアナリティクスに関連した深層学習について研究しています。（使用言語はPythonでフレームワークはPytorchを使っています。）
+
+#個人開発について
+以下のFukuLoop2.0とaaa_siteはRenderにてデプロイしました。（現在のインターンを始める前に作ったものですが）
 FukuLoop : https://fukuloop.onrender.com
 FukuLoop2.0 : https://fukuloop2-0.onrender.com
 aaa_site : https://flask-aaa-site.onrender.com
-現在はWeb系の企業で長期インターンをしています。また、Pythonでの機械学習も勉強中です。
 
 #使用経験のある技術
 - Python（Flask）
-- HTML / CSS
+- Java
+- Oracle
 - JavaScript
+- HTML / CSS
 - Git/GitHub
+- Flask
 - Render
 - React
 - TypeScript
 - Next.js
 - tRPC
 - FastAPI
-- Java
-- Oracle
 
 #最近取り組んでいること
 - インターンにてJavaやOracleによる開発
 - Pythonでの機械学習まわりの学習
 
-#おすすめプロジェクト
+#ぜひ見て頂きたいプロジェクト
+- gnn-counterattack-xai-v2
+  現在製作途中ですが、研究で製作しているものです。GNN（グラフニューラルネットワーク）を用いてサッカーのカウンターアタックの成功予測のタスクを解き、特に機械学習の解釈性にアプローチする研究（XAIというもの）を行っています。
 - FukuLoop2.0
   以下のFukuLoopの改良版。フロントエンドにJavaScriptを組み込み、グラフを動的に更新する機能を実装した。（グラフ描画にはChart.jsを使用）具体的にはバックエンドのflaskでグラフに必要なデータを送るエンドポイントを作成し、フロントエンドのJavaScriptでAPIを叩き（fetchし）、Chart.jsで描画するという仕組み。グラフ表示機能をJavaScript（グラフ描画はChart.js)に変更。
 - FukuLoop
