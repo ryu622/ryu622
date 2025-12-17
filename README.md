@@ -12,13 +12,12 @@ FukuLoop2.0 : https://fukuloop2-0.onrender.com
 aaa_site : https://flask-aaa-site.onrender.com
 
 #使用経験のある技術
-- Python（Flask）
+- Python(Flask,Pytorch)
 - Java
-- Oracle
+- SQL
 - JavaScript
 - HTML / CSS
 - Git/GitHub
-- Flask
 - Render
 - React
 - TypeScript
